@@ -1,0 +1,261 @@
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.exe
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.deps.json
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.runtimeconfig.json
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.pdb
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.AssemblyReference.cache
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.AssemblyInfoInputs.cache
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.AssemblyInfo.cs
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.CoreCompileInputs.cache
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeCRUDAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeCRUDAPI.props
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeCRUDAPI.props
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeCRUDAPI.props
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\scopedcss\bundle\EmployeeCRUDAPI.styles.css
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.CopyComplete
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\refint\EmployeeCRUDAPI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.pdb
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.genruntimeconfig.cache
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\obj\Debug\net6.0\ref\EmployeeCRUDAPI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Bacancy\source\repos\EmployeeCRUDAPI\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\appsettings.json
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.exe
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.deps.json
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.runtimeconfig.json
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.pdb
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Azure.Core.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Azure.Identity.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Humanizer.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.CodeDom.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Memory.Data.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.AssemblyReference.cache
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.AssemblyInfoInputs.cache
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.AssemblyInfo.cs
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.CoreCompileInputs.cache
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeCRUDAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeCRUDAPI.props
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeCRUDAPI.props
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeCRUDAPI.props
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\scopedcss\bundle\EmployeeCRUDAPI.styles.css
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.CopyComplete
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\refint\EmployeeCRUDAPI.dll
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.pdb
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.genruntimeconfig.cache
+D:\New folder\Employee-CRUD-API-main\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\ref\EmployeeCRUDAPI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.exe
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.deps.json
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.runtimeconfig.json
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\EmployeeCRUDAPI.pdb
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.AssemblyReference.cache
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.AssemblyInfoInputs.cache
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.AssemblyInfo.cs
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.CoreCompileInputs.cache
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.EmployeeCRUDAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.EmployeeCRUDAPI.props
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeCRUDAPI.props
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EmployeeCRUDAPI.props
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\scopedcss\bundle\EmployeeCRUDAPI.styles.css
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.csproj.CopyComplete
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\refint\EmployeeCRUDAPI.dll
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.pdb
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\EmployeeCRUDAPI.genruntimeconfig.cache
+C:\Users\Digvijay\Downloads\Employee-CRUD-API-main\EmployeeCRUDAPI\obj\Debug\net6.0\ref\EmployeeCRUDAPI.dll
