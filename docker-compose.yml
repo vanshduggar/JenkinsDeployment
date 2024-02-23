@@ -1,1 +1,14 @@
+version: '6.0'
 
+services:
+  web:
+    image: mcr.microsoft.com/dotnet/aspnet:6.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1001:80"
+    volumes:
+      - ./app:/app
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
